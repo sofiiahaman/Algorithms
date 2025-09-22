@@ -1,0 +1,3 @@
+C:/Users/Пользовтель/CLionProjects/ais/cmake-build-debug/CMakeFiles/ais.dir
+C:/Users/Пользовтель/CLionProjects/ais/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Пользовтель/CLionProjects/ais/cmake-build-debug/CMakeFiles/rebuild_cache.dir
